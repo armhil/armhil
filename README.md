@@ -4,9 +4,9 @@ If you are a recruiter, looking for an engineer with lots of open source experie
 
 My full time job is dedicated to leading/managing people at the moment.
 
-If however you've landed here by following some magic internet rabbit (who knows right!) - here are some things that you're likely to find here:
+If however you've landed here by following some magic internet rabbit (who knows right!) - or you've stumbled upon something I've shipped and it's been broken/or working great - here are some things that you're likely to find here:
 
-* I'm the proud owner of [Easy Code Formatter](https://appsource.microsoft.com/en-us/product/office/WA104382008?tab=overview) - packages that support the core app are being made open source, stretched over time. This project is codifying tens of thousands of code snippets every month.
+* I'm the proud owner of [Easy Code Formatter](https://appsource.microsoft.com/en-us/product/office/WA104382008?tab=overview) - packages that support the core app are being made open source, stretched over time. This project is codifying tens of thousands of code snippets every month. For now, you can log issues to the styles repository. 
 * You'll probably see sometime around 2023, a QR code addin - being made open-source. Simple tech, but shows the world I can build add-ins just fine 🤓
 * Again - a Chromium extension that I've worked on, not the Protractor Test Generator, but a network interceptor is on it's way to being made public. 
 
