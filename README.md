@@ -7,6 +7,8 @@ My full time job is dedicated to leading/managing people at the moment.
 If however you've landed here by following some magic internet rabbit (who knows right!) - or you've stumbled upon something I've shipped and it's been broken/or working great - here are some things that you're likely to find here:
 
 * I'm the proud owner of [Easy Code Formatter](https://appsource.microsoft.com/en-us/product/office/WA104382008?tab=overview) - packages that support the core app are being made open source, stretched over time. This project is codifying tens of thousands of code snippets every month. For now, you can log issues to the styles repository.
+  * [Easy Code Formatter Styles](https://github.com/armhil/easy-code-formatter-styles) - styles, fonts etc.. are here. Contribution is welcome.
+  * [Easy Code Formatter Submission](https://github.com/armhil/easy-code-formatter-submission) - Don't expect this to change much, it's the icons, docs and images repository.
 * [Azure Blobs Content Uploader](https://github.com/marketplace/actions/static-content-uploader-for-azure-blobs) is a GitHub Action that I own - I've developed this for uploading files to multiple Az Blob Storages across regions to support my addins, just like Easy Code Formatter. Now it's made open source and fully available to the world through Github Actions Marketplace.
 * You'll probably see sometime around 2023, a QR code addin - being made open-source. Simple tech, but shows the world I can build add-ins just fine 🤓
 * Again - a Chromium extension that I've worked on, not the Protractor Test Generator, but a network interceptor is on it's way to being made public. 
