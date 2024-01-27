@@ -15,7 +15,7 @@ If however you've landed here by following some magic internet rabbit (who knows
   * [Easy Code Formatter Submission](https://github.com/armhil/easy-code-formatter-submission) - Don't expect this to change much, it's the icons, docs and images repository.
 * [Easy Addins Utils](https://github.com/armhil/easy-addins-utils) - is some shared functionality that helps me speed up the addin development.
 * [Azure Blobs Content Uploader](https://github.com/marketplace/actions/static-content-uploader-for-azure-blobs) is a GitHub Action that I own - I've developed this for uploading files to multiple Az Blob Storages across regions to support my addins, just like Easy Code Formatter. Now it's made open source and fully available to the world through Github Actions Marketplace.
-* You'll probably see sometime around 2023, a QR code addin - being made open-source. Simple tech, but shows the world I can build add-ins just fine 🤓
+* [Easy QR Code and Barcode Generator](https://github.com/armhil/easy-qrcode-barcode-addin/) - for folks who like to generate stuff in Microsoft Word. Contributions are welcome, I'm willing to sign off on design changes even, it's getting outdated.
 * Again - a Chromium extension that I've worked on, not the Protractor Test Generator, but a network interceptor is on it's way to being made public. 
 
 So - those are the dev news. If you're here for figuring out what kind of a person am I regarding managing; I'm a big believer in books.
