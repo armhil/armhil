@@ -4,11 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armhil/)
 [![npm](https://img.shields.io/badge/-npm-red?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~armhil)
 
-If you are a recruiter, looking for an engineer with lots of open source experience; and somehow you've landed here, I'm sorry to disappoint you. You won't find much code here, except a few side projects that I've delivered over the years and I'm working at a veerrryy slow pace in polishing them and making them open-source. 
-
-My full time job is dedicated to leading/managing people at the moment.
-
-If however you've landed here by following some magic internet rabbit (who knows right!) - or you've stumbled upon something I've shipped and it's been broken/or working great - here are some things that you're likely to find here:
+If you are a recruiter, looking for an engineer with lots of open source experience; and somehow you've landed here, you will find a few side projects that I've delivered over the years and I'm working at a veerrryy slow pace in polishing them and making them open-source. *However* my full time job is dedicated to leading/managing people at the moment.
 
 * I'm the proud owner of [Easy Code Formatter](https://appsource.microsoft.com/en-us/product/office/WA104382008?tab=overview) - packages that support the core app are being made open source, stretched over time. This project is codifying tens of thousands of code snippets every month. For now, you can log issues to the styles repository.
   * [Easy Code Formatter Styles](https://github.com/armhil/easy-code-formatter-styles) - styles, fonts etc.. are here. Contribution is welcome.
